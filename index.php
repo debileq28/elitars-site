@@ -11,6 +11,13 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 	</head>
 	<body>
+		<div class="wrapper">
+			<div class="header">
+				<div class="logo">
+					Wbijaj na serwer elitars.ml!
+				</div>
+			</div>
+		</div>
 		<div id="login"
 			
 		/>
