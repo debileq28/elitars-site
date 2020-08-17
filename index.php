@@ -26,7 +26,7 @@
 			</div>
 			<div id="topbar">
 				<div id="topbarL">
-					<img src="./Images/steve.jpg" width="130"/>
+					<img src="./Images/steve.png" width="130"/>
 				</div>
 				<div id="topbarR">
 					<h1>Serwer minecraft Elitars.ml<h1>
