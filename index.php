@@ -13,5 +13,6 @@
 		<?
 			echo "Siemka!"
 		?>
+		<h1>xD</h1>
 	</body>
 </html>
