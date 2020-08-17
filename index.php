@@ -22,7 +22,7 @@
 				<div class="option">Regulamin</div>
 				<div class="option">Top 10 graczy</div>
 				<div class="option">Zdięcia</div>
-				<div class="option">Autorzy</div>
+				<a href="www.google.com"><div class="option" id="Author">Autorzy</div></a>
 				<div style="clear:both;"></div>
 			</div>
 			<div id="topbar">
