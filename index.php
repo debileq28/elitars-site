@@ -22,6 +22,7 @@
 				<div class="option">Regulamin</div>
 				<div class="option">Top 10 graczy</div>
 				<div class="option">Zdięcia</div>
+				<div class="option">Autorzy</div>
 				<div style="clear:both;"></div>
 			</div>
 			<div id="topbar">
@@ -39,6 +40,7 @@
 				<div class="optionL">Regulamin</div>
 				<div class="optionL">Top 10 graczy</div>
 				<div class="optionL">Zdięcia</div>
+				<div class="optionL">Autorzy</div>
 			</div>
 			<div id="content">
 				<span class="bigtitle">Rozbudowany serwer na najnowsze wersje minecraft.</span>
