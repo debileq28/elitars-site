@@ -11,7 +11,7 @@
 	</head>
 	<body>
 		<?
-			echo Siemka!
+			echo "Siemka!"
 		?>
 	</body>
 </html>
