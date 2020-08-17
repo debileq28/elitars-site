@@ -19,7 +19,8 @@
 			<div id="menu">
 				<div class="option">Strona główna</div>
 				<div class="option">Regulamin</div>
-				<div class="option">Top 10 graczy Zdięcia</div>
+				<div class="option">Top 10 graczy</div>
+				<div class="option">Zdięcia</div>
 				<div style="clear:both;"></div>
 			</div>
 			<div id="topbar">
@@ -35,7 +36,8 @@
 			<div id="sidebar">
 				<div class="optionL">Strona główna</div>
 				<div class="optionL">Regulamin</div>
-				<div class="optionL">Top 10 graczy Zdięcia</div>
+				<div class="optionL">Top 10 graczy</div>
+				<div class="optionL">Zdięcia</div>
 			</div>
 			<div id="content">
 				<span class="bigtitle">Rozbudowany serwer minecraft na najnowsze wersjie minecraft.</span>

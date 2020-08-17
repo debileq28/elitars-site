@@ -1,7 +1,7 @@
 body
 {
 	background-color: #404040;
-	font-family: 'Lato',sans-serif;
+	font-family: 'Lato', sans-serif;
 }
 
 #container
@@ -26,12 +26,13 @@ body
 	margin-top: 20px;
 	color: #ffffff;
 	padding: 10px;
+	
 }
 
 #topbar
 {
 	background-color: #128870;
-	color: #ffffff;
+	color: white;
 	padding: 10px;
 	margin-top: 20px;
 	margin-bottom: 25px;
@@ -40,7 +41,7 @@ body
 
 #topbarL
 {
-	float: left;
+	float:left;
 	padding: 20px;
 	width: 138px;
 	text-align: center;
@@ -61,8 +62,8 @@ body
 	float: left;
 	width: 148px;
 	min-height: 620px;
-	padding: 20px;
-	background-color: #d3d3d3;
+	padding:20px;
+	background-color: lightgray;
 	text-align: center;
 	font-size: 18px;
 	border-right: 2px dotted #666666;
@@ -81,7 +82,7 @@ body
 #footer
 {
 	clear: both;
-	color: #ffffff;
+	color: white;
 	text-align: center;
 	padding: 20px;
 	font-size: 18px;
@@ -98,21 +99,21 @@ body
 	opacity: 0.8;
 }
 
-.optin:hover
+.option:hover
 {
 	background-color: #000000;
 	cursor: pointer;
 }
 
-.optinL
+.optionL
 {
-	font-size: 18px;
-	height: 25px;
+	font-size:18px;
+	height:25px;
 	padding: 10px;
 	border-bottom: 2px dotted #444444;
 }
 
-.optinL:hover
+.optionL:hover
 {
 	background-color: #f36742;
 	color: white;
