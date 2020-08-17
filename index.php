@@ -11,19 +11,25 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 	</head>
 	<body>
-		<div class="wrapper">
-			<div class="header">
-				<div class="logo">
-					Wbijaj na serwer elitars.ml!
-				</div>
+		<div id="container">
+			<div id="logo">
+				Wbijaj na serwer Elitars.ml :)
+			</div>
+			<div id="menu">
+				Strona główna Regulamin Top 10 graczy Zdięcia
+			</div>
+			<div id="topbar">
+				Serwer minecraft Elitars.ml
+			</div>
+			<div id="sidebar">
+				Strona główna<br />
+				Regulamin<br />
+				Top 10 graczy<br />
+				Zdięcia<br />
+			</div>
+			<div id="content">
+				
 			</div>
 		</div>
-		<div id="login"
-			
-		/>
-		<?php
-			echo "Siemka!";
-		?>
-		<h1>xD</h1>
 	</body>
 </html>
