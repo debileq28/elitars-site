@@ -58,8 +58,8 @@
 				<br /> <br />
 				Etiam quis semper nisi, vitae ullamcorper orci. Morbi tincidunt condimentum est sit amet facilisis. Donec ac lacinia odio. Sed mattis eleifend efficitur. Ut vitae semper mauris, eget consectetur arcu. Nullam finibus dignissim sollicitudin. Pellentesque mollis commodo nisi, id rhoncus nulla semper eget. Pellentesque rutrum posuere metus non lacinia. Mauris ac gravida est. Ut eget tempus enim. Duis quis placerat arcu, non egestas mi. Mauris sem augue, condimentum eget egestas ac, luctus a nibh. Integer pharetra, mi id fringilla maximus, lorem purus varius magna, vel aliquam neque arcu a lectus.
 			</div>
-			<div id="">
-				
+			<div id="footer">
+				Zapraszamy na serwer minecraft Elitars.ml Strona internetowa powstała w 2020r. &copy; Wszelkie prawa zastrzeżone
 			</div>
 		</div>
 	</body>
