@@ -4,6 +4,7 @@
 	<head>
 		<title>Elitars</title>
 		<meta charset="utf-8"/>
+		<script data-ad-client="ca-pub-1031473336447998" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 		<meta name="author" content="Oskar Pietrzko & Piotrek Szczepański" />
 		<meta name="description" content='Strona główna serwera minecraft "elitars.ml". Na stronie znajduje się regulamin serwera jak i dużo innych ciekawych reczy na temat serwera.' />
 		<meta name="keywords" content="elitars, minecraft, elitars.ml, server, server minecraft, fajne serwery minecraft, 1.16, 1.16.1, 1.16.2" />
@@ -25,10 +26,10 @@
 			</div>
 			<div id="topbar">
 				<div id="topbarL">
-					<img src="./Images/steave.png" />
+					<img src="./Images/steve.jpg" width="130"/>
 				</div>
 				<div id="topbarR">
-					<span class="bigtitle">Serwer minecraft Elitars.ml</span>
+					<h1>Serwer minecraft Elitars.ml<h1>
 					<div style="height: 15px;"></div>
 				</div>
 				<div style="clear:both;"></div>
@@ -40,7 +41,7 @@
 				<div class="optionL">Zdięcia</div>
 			</div>
 			<div id="content">
-				<span class="bigtitle">Rozbudowany serwer minecraft na najnowsze wersjie minecraft.</span>
+				<span class="bigtitle">Rozbudowany serwer na najnowsze wersje minecraft.</span>
 				
 				<div style="dottedline"></div>
 				
