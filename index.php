@@ -17,19 +17,31 @@
 				Wbijaj na serwer Elitars.ml :)
 			</div>
 			<div id="menu">
-				Strona główna Regulamin Top 10 graczy Zdięcia
+				<div class="option">Strona główna</div>
+				<div class="option">Regulamin</div>
+				<div class="option">Top 10 graczy Zdięcia</div>
+				<div style="clear:both;"></div>
 			</div>
 			<div id="topbar">
-				Serwer minecraft Elitars.ml
+				<div id="topbarL">
+					<img src="./Images/steave.png" />
+				</div>
+				<div id="topbarR">
+					<span class="bigtitle">Serwer minecraft Elitars.ml</span>
+					<div style="height: 15px;"></div>
+				</div>
+				<div style="clear:both;"></div>
 			</div>
 			<div id="sidebar">
-				Strona główna<br />
-				Regulamin<br />
-				Top 10 graczy<br />
-				Zdięcia<br />
+				<div class="optionL">Strona główna</div>
+				<div class="optionL">Regulamin</div>
+				<div class="optionL">Top 10 graczy Zdięcia</div>
 			</div>
 			<div id="content">
-				Rozbudowany serwer minecraft na najnowsze wersjie minecraft.<br />
+				<span class="bigtitle">Rozbudowany serwer minecraft na najnowsze wersjie minecraft.</span>
+				
+				<div style="dottedline"></div>
+				
 				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent convallis augue eu velit tristique, eget condimentum erat posuere. In nunc dolor, commodo sit amet nulla sit amet, condimentum aliquet ipsum. Praesent et condimentum dui, sit amet feugiat diam. Donec pretium consectetur semper. Nam et iaculis leo. Morbi dui mi, imperdiet et felis id, consequat euismod odio. Praesent ultricies felis lobortis ante bibendum pretium. Maecenas turpis velit, varius nec turpis id, iaculis consequat massa.
 
 				<br /> <br />
