@@ -10,8 +10,8 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 	</head>
 	<body>
-		<?
-			echo "Siemka!"
+		<?php
+			echo "Siemka!";
 		?>
 		<h1>xD</h1>
 	</body>
