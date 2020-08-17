@@ -11,6 +11,9 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 	</head>
 	<body>
+		<div id="login"
+			
+		/>
 		<?php
 			echo "Siemka!";
 		?>
