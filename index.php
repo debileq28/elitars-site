@@ -14,10 +14,12 @@
 	</head>
 	<body>
 		<div id="container">
-			<div id="logo">
-				Wbijaj na serwer Elitars.ml :)
+			<div id="logo" >
+				<div id="logo-text" class="menu-link">
+					<a href="../index.php" >Elitars.ml</a>
+				</div>
 			</div>
-			<div id="menu">
+			<div id="menu" class="menu-link">
 				<a href="../index.php"><div class="option" id="Main">Strona główna</div></a>
 				<a href="./Podstrony/Regulamin.php"><div class="option" id="Regulamin">Regulamin</div></a>
 				<a href="./Podstrony/Topka.php"><div class="option" id="Top10">Top 10 graczy</div></a>
@@ -27,15 +29,17 @@
 			</div>
 			<div id="topbar">
 				<div id="topbarL">
-					<img src="./Images/steve.png" width="200"/>
+					<img src="./Images/steve.png" width="200" style="margin-left: auto; margin-right: auto;"/>
 				</div>
 				<div id="topbarR">
 					<span class="bigtitle">Serwer minecraft Elitars.ml</span>
+						<br></br>
+					🚧🚧🚧
 					<div style="height: 15px;"></div>
 				</div>
 				<div style="clear:both;"></div>
 			</div>
-			<div id="sidebar">
+			<div id="sidebar" class="sidebar-link">
 				<a href="../index.php"><div class="optionL" id="Main">Strona główna</div></a>
 				<a href="./Podstrony/Regulamin.php"><div class="optionL" id="Regulamin">Regulamin</div></a>
 				<a href="./Podstrony/Topka.php"><div class="optionL" id="Top10">Top 10 graczy</div></a>
@@ -44,7 +48,8 @@
 			</div>
 			<div id="content">
 				<span class="bigtitle">Rozbudowany serwer na najnowsze wersje minecraft.</span>
-				
+					<br></br>
+				<span class="bigtitle">🚧🚧🚧</span>
 				<div style="dottedline"></div>
 					
 					

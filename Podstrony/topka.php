@@ -11,9 +11,11 @@
 	<body>
 		<div id="container">
 			<div id="logo">
-				Wbijaj na serwer Elitars.ml :)
+				<div id="logo-text" class="menu-link">
+					<a href="../index.php" >Elitars.ml</a>
+				</div>
 			</div>
-			<div id="menu">
+			<div id="menu" class="menu-link">
 				<a href="../index.php"><div class="option" id="Main">Strona główna</div></a>
 				<a href="../Podstrony/Regulamin.php"><div class="option" id="Regulamin">Regulamin</div></a>
 				<a href="../Podstrony/Topka.php"><div class="option" id="Top10">Top 10 graczy</div></a>
@@ -31,7 +33,7 @@
 				</div>
 				<div style="clear:both;"></div>
 			</div>
-			<div id="sidebar">
+			<div id="sidebar" class="sidebar-link">
 				<a href="../index.php"><div class="optionL" id="Main">Strona główna</div></a>
 				<a href="../Podstrony/Regulamin.php"><div class="optionL" id="Regulamin">Regulamin</div></a>
 				<a href="../Podstrony/Topka.php"><div class="optionL" id="Top10">Top 10 graczy</div></a>
