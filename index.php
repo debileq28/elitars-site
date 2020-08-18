@@ -18,16 +18,16 @@
 				Wbijaj na serwer Elitars.ml :)
 			</div>
 			<div id="menu">
-				<div class="option">Strona główna</div>
-				<div class="option">Regulamin</div>
-				<div class="option">Top 10 graczy</div>
-				<div class="option">Zdięcia</div>
-				<a href="www.google.com"><div class="option" id="Author">Autorzy</div></a>
+				<a href="../index.php"><div class="option" id="Main">Strona główna</div></a>
+				<a href="./Podstrony/regulamin.php"><div class="option" id="Regulamin">Regulamin</div></a>
+				<a href="./Podstrony/topka.php"><div class="option" id="Top10">Top 10 graczy</div></a>
+				<a href="./Podstrony/zdjecia.php"><div class="option" id="Zdjecia">Zdjęcia</div></a>
+				<a href="./Podstrony/autorzy.php"><div class="option" id="Author">Autorzy</div></a>
 				<div style="clear:both;"></div>
 			</div>
 			<div id="topbar">
 				<div id="topbarL">
-					<img src="./Images/steve.png" width="130"/>
+					<img src="./Images/steve.png" width="200"/>
 				</div>
 				<div id="topbarR">
 					<h1>Serwer minecraft Elitars.ml<h1>
@@ -36,11 +36,11 @@
 				<div style="clear:both;"></div>
 			</div>
 			<div id="sidebar">
-				<div class="optionL">Strona główna</div>
-				<div class="optionL">Regulamin</div>
-				<div class="optionL">Top 10 graczy</div>
-				<div class="optionL">Zdięcia</div>
-				<div class="optionL">Autorzy</div>
+				<a href="../index.php"><div class="optionL" id="Main">Strona główna</div></a>
+				<a href="./Podstrony/regulamin.php"><div class="optionL" id="Regulamin">Regulamin</div></a>
+				<a href="./Podstrony/topka.php"><div class="optionL" id="Top10">Top 10 graczy</div></a>
+				<a href="./Podstrony/zdjecia.php"><div class="optionL" id="Zdjecia">Zdjęcia</div></a>
+				<a href="./Podstrony/autorzy.php"><div class="optionL" id="Author">Autorzy</div></a>
 			</div>
 			<div id="content">
 				<span class="bigtitle">Rozbudowany serwer na najnowsze wersje minecraft.</span>
