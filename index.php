@@ -33,8 +33,8 @@
 				</div>
 				<div id="topbarR">
 					<span class="bigtitle">Serwer minecraft Elitars.ml</span>
-						<br></br>
-					🚧🚧🚧
+					<br></br>
+					Najtrudniejszą sytuacją w życiu jest, kiedy twój mózg musi wytłumaczyć sercu, że nie wolno mu dłużej kochać pewnej osoby.
 					<div style="height: 15px;"></div>
 				</div>
 				<div style="clear:both;"></div>
@@ -48,11 +48,11 @@
 			</div>
 			<div id="content">
 				<span class="bigtitle">Rozbudowany serwer na najnowsze wersje minecraft.</span>
-					<br></br>
+				<br></br>
 				<span class="bigtitle">🚧🚧🚧</span>
-				<div style="dottedline"></div>
-					
-					
+				<br></br>
+				Zapraszamy na serwer minecraft Elitars.ml!
+				<div style="dottedline"></div>	
 			</div>
 				<div id="footer">
 					Zapraszamy na serwer minecraft Elitars.ml Strona internetowa powstała w 2020r. &copy; Wszelkie prawa zastrzeżone
