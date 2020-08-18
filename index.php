@@ -30,7 +30,7 @@
 					<img src="./Images/steve.png" width="200"/>
 				</div>
 				<div id="topbarR">
-					<h1>Serwer minecraft Elitars.ml<h1>
+					<span class="bigtitle">Serwer minecraft Elitars.ml</span>
 					<div style="height: 15px;"></div>
 				</div>
 				<div style="clear:both;"></div>
