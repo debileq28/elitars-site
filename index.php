@@ -11,8 +11,10 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 		<link rel="stylesheet" href="./css/index.css" type="text/css" />
 		<link href='http://fonts.googleapis.com/css?family=Lato:400,900&subset=latin,latin-ext' rel='stylesheet' type='text/css' />
+	    <script src="./index.js">
+		</script>
 	</head>
-	<body>
+	<body onload="zmienpostac()">
 		<div id="container">
 			<div id="logo" >
 				<div id="logo-text" class="menu-link">
@@ -28,13 +30,15 @@
 				<div style="clear:both;"></div>
 			</div>
 			<div id="topbar">
-				<div id="topbarL">
-					<img src="./Images/steve.png" width="200" style="margin-left: auto; margin-right: auto;"/>
+				<div id="topbarL" >
+					
 				</div>
 				<div id="topbarR">
 					<span class="bigtitle">Serwer minecraft Elitars.ml</span>
 					<br></br>
-					Najtrudniejszą sytuacją w życiu jest, kiedy twój mózg musi wytłumaczyć sercu, że nie wolno mu dłużej kochać pewnej osoby.
+					<span class="smalltitle">Najtrudniejszą sytuacją w życiu jest, kiedy twój mózg musi wytłumaczyć sercu,</span>
+					<br>
+					<span class="smalltitle">że nie wolno mu dłużej kochać pewnej osoby.</span>
 					<div style="height: 15px;"></div>
 				</div>
 				<div style="clear:both;"></div>
@@ -51,7 +55,7 @@
 				<br></br>
 				<span class="bigtitle">🚧🚧🚧</span>
 				<br></br>
-				Zapraszamy na serwer minecraft Elitars.ml!
+				<span class="smalltitle">Zapraszamy na serwer minecraft Elitars.ml!</span>
 				<div style="dottedline"></div>	
 			</div>
 				<div id="footer">
